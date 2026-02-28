@@ -1,0 +1,16 @@
+name	count	country
+Harvard University	142	USA
+MIT	128	USA
+Stanford University	115	USA
+University of Oxford	98	UK
+Peking University	87	China
+University of Cambridge	82	UK
+Tsinghua University	76	China
+ETH Zurich	71	Switzerland
+University of Toronto	65	Canada
+Max Planck Institute	63	Germany
+Yale University	61	USA
+University of Melbourne	58	Australia
+Tokyo University	54	Japan
+Seoul National University	49	South Korea
+National University of Singapore	47	Singapore
