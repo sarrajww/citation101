@@ -1,16 +1,22 @@
 name	count
-Machine Learning	234
-Natural Language Processing	187
-Computer Vision	156
-Climate Change	143
-Genomics	128
-Drug Discovery	112
-Reinforcement Learning	98
-Neuroscience	91
-Quantum Computing	84
-Epidemiology	77
-Robotics	71
-Materials Science	65
-Economic Policy	59
-Social Networks	54
-Bioinformatics	48
+Plant Gene Expression Analysis	10
+Plant biochemistry and biosynthesis	8
+Phytochemicals and Antioxidant Activities	4
+Postharvest Quality and Shelf Life Management	2
+Fungal Biology and Applications	2
+Plant Stress Responses and Tolerance	1
+Genomics and Phylogenetic Studies	1
+Microbial Natural Products and Biosynthesis	1
+Plant Virus Research Studies	1
+Spectroscopy and Chemometric Analyses	1
+Fermentation and Sensory Analysis	1
+Plant Pathogens and Fungal Diseases	1
+Metabolomics and Mass Spectrometry Studies	1
+Polysaccharides and Plant Cell Walls	1
+Phytoestrogen effects and research	1
+Curcumin's Biomedical Applications	1
+Plant Surface Properties and Treatments	1
+Machine Learning in Bioinformatics	1
+Toxin Mechanisms and Immunotoxins	1
+Bioactive Natural Diterpenoids Research	1
+Cocoa and Sweet Potato Agronomy	1
