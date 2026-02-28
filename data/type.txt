@@ -1,11 +1,5 @@
 name	count
-Journal Article	1243
-Conference Paper	876
-Preprint	654
-Book Chapter	321
-Thesis	187
-Technical Report	143
-Review Article	128
-Dataset	96
-Software	74
-Patent	43
+article	39
+review	5
+book-chapter	2
+preprint	1
