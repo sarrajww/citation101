@@ -1,16 +1,116 @@
 name	count	country
-Harvard University	142	USA
-MIT	128	USA
-Stanford University	115	USA
-University of Oxford	98	UK
-Peking University	87	China
-University of Cambridge	82	UK
-Tsinghua University	76	China
-ETH Zurich	71	Switzerland
-University of Toronto	65	Canada
-Max Planck Institute	63	Germany
-Yale University	61	USA
-University of Melbourne	58	Australia
-Tokyo University	54	Japan
-Seoul National University	49	South Korea
-National University of Singapore	47	Singapore
+Chinese Academy of Sciences	7	China
+State Council of the People's Republic of China	7	China
+South China Agricultural University	5	China
+Ministry of Agriculture and Rural Affairs	5	China
+Guangdong Academy of Agricultural Sciences	4	China
+Chinese Academy of Medical Sciences & Peking Union Medical College	3	China
+Zhejiang University	3	China
+Commonwealth Scientific and Industrial Research Organisation	2  China
+Ministry of Education of the People's Republic of China	2  China
+Peking University	2	China
+Huazhong Agricultural University	2	China
+Hainan University	2	China
+Australian Government	2	Australia
+Lanzhou Jiaotong University	2	China
+Wuhan University	2	China
+Guangxi Academy of Special Crops	2	China
+Gansu Academy of Sciences	2	China
+Key Laboratory of Guangdong Province	2	China
+Hunan Academy of Agricultural Sciences	2	China
+Guangxi University of Chinese Medicine	2	China
+Hexi University	2	China
+South China Botanical Garden	2	China
+Lanzhou University Second Hospital	2	China
+Chinese Academy of Agricultural Sciences	2	China
+China Academy of Chinese Medical Sciences	2	China
+Sanya University	2	China
+University of Chinese Academy of Sciences	2	China
+Hunan Agricultural University	2	China
+Lanzhou University	2	China
+Hainan Tropical Ocean University	2	China
+BGI Group (China)	1	China
+John Innes Centre	1	UK
+Jiangxi University of Traditional Chinese Medicine	1	China
+University of East Anglia	1	UK
+Indian Agricultural Statistics Research Institute	1	India
+Changzhi University	1	China
+Nanjing University of Chinese Medicine	1	China
+Indian Institute of Horticultural Research	1	India
+Nanjing Tech University	1	China
+Tianjin University of Technology	1	China
+Southwest University	1	China
+East China University of Science and Technology	1	China
+Max Planck Society	1	Germany
+Guangxi University	1	China
+Qilu University of Technology	1	China
+Shandong University	1	China
+Jinan University	1	China
+Guangxi Medical University	1	China
+Hunan University	1	China
+Nanjing Forestry University	1	China
+The University of Western Australia	1	Australia
+Second Military Medical University	1	China
+Indian Council of Agricultural Research	1	India
+Shanghai Jiao Tong University	1	China
+Brazilian Agricultural Research Corporation	1	Brazil
+Ningxia University	1	China
+Shanghai Normal University	1	China
+Sichuan University	1	China
+Anhui University of Traditional Chinese Medicine	1	China
+National Health and Family Planning Commission	1	China
+State Administration of Traditional Chinese Medicine of the People's Republic of China	1	China
+Biotechnology and Biological Sciences Research Council	1	UK
+Beijing Botanical Garden	1	China
+China Tobacco	1	China
+Shaoguan University	1	China
+Hans Raj Mahila Maha Vidyalaya	1	India
+Beijing Forestry University	1	China
+Zhengzhou University	1	China
+University of New Haven	1	USA
+Yinchuan First People's Hospital	1	China
+UK Research and Innovation	1	UK
+Central Sericultural Germplasm Resources Centre	1	India
+Panyu Hospital of Chinese Medicine	1	China
+Quzhou College of Technology	1	China
+Shanghai University of Traditional Chinese Medicine	1	China
+Hubei University of Science and Technology	1	China
+Guangzhou Panyu Polytechnic	1	China
+Beibu Gulf University	1	China
+Max Planck Institute of Molecular Plant Physiology	1	Germany
+Inner Mongolia Autonomous Region Meteorological Bureau	1	China
+Panzhihua University	1	China
+Nanjing Drum Tower Hospital	1	China
+Shanghai Zhangjiang Laboratory	1	China
+Fujian Academy of Agricultural Sciences	1	China
+Zhongnan Hospital of Wuhan University	1	China
+Guangxi Medicinal Botanical Garden	1	China
+Guangxi Academy of Agricultural Science	1	China
+Jiangsu Institute of Metrology	1	China
+Quzhou University	1	China
+ZheJiang Academy of Agricultural Sciences	1	China
+Ningxia Medical University	1	China
+Chinese Academy of Forestry	1	China
+Yibin University	1	China
+Shanghai Chenshan Plant Science Research Center	1	China
+Center for Excellence in Molecular Plant Sciences	1	China
+Shandong Academy of Sciences	1	China
+Tea Research Institute	1	China
+China Nonferrous Metals Changsha Investigation Design Institute	1	China
+Baotou Medical College	1	China
+Qilu Hospital of Shandong University	1	China
+First People's Hospital of Chongqing	1	China
+Zhejiang Academy of Forestry	1	China
+Xiangnan University	1	China
+State Key Laboratory of Bioreactor Engineering	1	China
+State Key Laboratory of Natural and Biomimetic Drugs	1	China
+China National Botanical Garden	1	China
+Indian Agricultural Research Institute	1	India
+China Agricultural University	1	China
+Chengdu University of Traditional Chinese Medicine	1	China
+Beijing University of Civil Engineering and Architecture	1	China
+Central Rice Research Institute	1	India
+Yangzhou University	1	China
+Jeju National University	1	South Korea
+University of California, Davis	1	USA
+South China University of Technology	1	China
