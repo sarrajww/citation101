@@ -1,13 +1,9 @@
 name	count	country
 Chinese Academy of Sciences	7	China
-State Council of the People's Republic of China	7	China
 South China Agricultural University	5	China
-Ministry of Agriculture and Rural Affairs	5	China
 Guangdong Academy of Agricultural Sciences	4	China
 Chinese Academy of Medical Sciences & Peking Union Medical College	3	China
 Zhejiang University	3	China
-Commonwealth Scientific and Industrial Research Organisation	2  China
-Ministry of Education of the People's Republic of China	2  China
 Peking University	2	China
 Huazhong Agricultural University	2	China
 Hainan University	2	China
@@ -58,7 +54,6 @@ Ningxia University	1	China
 Shanghai Normal University	1	China
 Sichuan University	1	China
 Anhui University of Traditional Chinese Medicine	1	China
-National Health and Family Planning Commission	1	China
 State Administration of Traditional Chinese Medicine of the People's Republic of China	1	China
 Biotechnology and Biological Sciences Research Council	1	UK
 Beijing Botanical Garden	1	China
